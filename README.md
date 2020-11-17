@@ -1,3 +1,3 @@
-# ML-Nr-2-Customer-Revenue-Prediction
+# ML-Nr-2-TMDB-Box-Office
 
-DAT158 ML Nr 2: Google Analytics Customer Revenue Prediction
+DAT158 ML Nr 2: Box Office Prediction
