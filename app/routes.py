@@ -5,7 +5,6 @@ import pickle
 from app.forms import DataForm
 from app.predict import preprocess, predict, postprocess
 
-
 app.config['SECRET_KEY'] = 'DAT158'
 
 
